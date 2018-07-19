@@ -1,11 +1,11 @@
 h1 {
   text-align: center;
   font-size: 40px;
-  color:rgb(61, 34, 9);
+  color:white;
   font-family: "Courier";
   padding: 25px;
   margin: 25px;
-  background-color: pink;
+  background-color: black;
 }
 .button {
   width: 100px;
@@ -14,6 +14,9 @@ h1 {
   transition: .5s ease;
    left: 1390px;
    top: 30px;
+  background-color: pink;
+  padding: 25px;
+  margin: 25px;
 }
 
 body {
@@ -42,7 +45,7 @@ body {
 }
 
 p {
-  color:black;
+  color:white;
   font-family: sans-serif;
   font-size:25px;
   margin-right: 75px;
@@ -50,7 +53,7 @@ p {
   width: 300px;
   padding: 25px;
   margin: 25px;
-  background-color: white;
+  background-color: black;
   display: block;
   margin-left: auto;
   margin-right: auto;
