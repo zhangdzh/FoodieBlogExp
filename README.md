@@ -1,1 +1,1 @@
-# GWC_Projects
+# GWC Project
